@@ -1,0 +1,51 @@
+﻿@model PayVM
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Pay</title>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    
+        @if (TempData["Pay"]!=null)
+        {
+    <alert class="alert alert-danger">
+        @TempData["Pay"].ToString()
+    </alert>
+    }
+
+
+    <div class="container h-100">
+        <div class="d-flex justify-content-center h-100">
+            <div class="card">
+
+                <div class="card-header text-center bg-dark">
+                    <h2 class="text-warning">Ödeme</h2>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Pay" asp-controller="Reservation" method="post">
+                        <label class="form-control bg-success text-white">Total Price : @ViewBag.DiscountedPrice</label>
+                        <label class="form-control bg-success text-white">Discount : @ViewBag.Discount</label>
+                        <label>Card Type</label>
+                        @Html.DropDownListFor(x => x.CardTypeId, (IEnumerable<SelectListItem>)ViewBag.sss, new {@class="form-control" })
+                        <label>Card Number</label>
+                        <input type="text" asp-for="CardNumber" class="form-control" />
+                        <label>CV2</label>
+                        <input type="text" asp-for="CV2" class="form-control"/>
+                        <label>EndDate</label>
+                        <input type="text" asp-for="EndDate" class="form-control" />
+                        <button class="btn btn-success w-100">Ödeme Yap</button>
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</body>
+</html>

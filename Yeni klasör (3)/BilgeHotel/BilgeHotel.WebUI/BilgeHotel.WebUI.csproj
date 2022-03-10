@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.15">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BilgeHotel.Business\BilgeHotel.Business.csproj" />
+    <ProjectReference Include="..\BilgeHotel.CacheReservation\BilgeHotel.CacheReservation.csproj" />
+    <ProjectReference Include="..\BilgeHotel.Core\BilgeHotel.Core.csproj" />
+    <ProjectReference Include="..\BilgeHotel.IocContainer\BilgeHotel.IocContainer.csproj" />
+    <ProjectReference Include="..\BilgeHotel.ViewModels\BilgeHotel.ViewModels.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ViewComponents\" />
+    <Folder Include="Views\Home\Components\" />
+  </ItemGroup>
+
+</Project>
