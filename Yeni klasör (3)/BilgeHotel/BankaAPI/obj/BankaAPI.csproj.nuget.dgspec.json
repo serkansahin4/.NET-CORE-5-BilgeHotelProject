@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Serkan\\Desktop\\Yeni klasör (3)\\BilgeHotel\\BankaAPI\\BankaAPI.csproj": {}
+    "C:\\Users\\Serkan\\Desktop\\Yeni klasör\\Yeni klasör (3)\\BilgeHotel\\BankaAPI\\BankaAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Serkan\\Desktop\\Yeni klasör (3)\\BilgeHotel\\BankaAPI\\BankaAPI.csproj": {
+    "C:\\Users\\Serkan\\Desktop\\Yeni klasör\\Yeni klasör (3)\\BilgeHotel\\BankaAPI\\BankaAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Serkan\\Desktop\\Yeni klasör (3)\\BilgeHotel\\BankaAPI\\BankaAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Serkan\\Desktop\\Yeni klasör\\Yeni klasör (3)\\BilgeHotel\\BankaAPI\\BankaAPI.csproj",
         "projectName": "BankaAPI",
-        "projectPath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör (3)\\BilgeHotel\\BankaAPI\\BankaAPI.csproj",
+        "projectPath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör\\Yeni klasör (3)\\BilgeHotel\\BankaAPI\\BankaAPI.csproj",
         "packagesPath": "C:\\Users\\Serkan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör (3)\\BilgeHotel\\BankaAPI\\obj\\",
+        "outputPath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör\\Yeni klasör (3)\\BilgeHotel\\BankaAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

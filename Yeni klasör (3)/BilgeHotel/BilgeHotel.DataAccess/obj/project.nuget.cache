@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ulf5qIFLNsGMZ9so0IfA1+MB+58l7SEe2NsPg0VnJsaby9KiUYuOFDnhecCp7I+EyQkOur1ZOrtvbxY4pTRMHA==",
+  "dgSpecHash": "Op3IxyEGrPg2Mbi67/C7PJK/JYZJjQBrS9NmRUvr5B09wWycaGglisNHfvGI1NqG4cY5AMJATKedlkmSWPPWLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.DataAccess\\BilgeHotel.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.DataAccess\\BilgeHotel.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Serkan\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\Serkan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

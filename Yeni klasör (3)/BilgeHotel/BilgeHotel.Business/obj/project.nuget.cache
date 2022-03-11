@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IBL2NcPwasIq96bDgWTWB9Uhy1Nq2g9QTJH5MD3G7j3+T9T/vm7fXQahHNu0gEe06dt/nUWGLFh2qdorInbg+w==",
+  "dgSpecHash": "nzFZaYff2y3zYaqQ2DV/vzCgPYzeVSc19XEaWYm6FGhPrP5zu8n4xPmrxb0EiZAhzk7DHamguSQG+mAllenCSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.Business\\BilgeHotel.Business.csproj",
+  "projectFilePath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.Business\\BilgeHotel.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Serkan\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\Serkan\\.nuget\\packages\\identitymodel\\4.4.0\\identitymodel.4.4.0.nupkg.sha512",

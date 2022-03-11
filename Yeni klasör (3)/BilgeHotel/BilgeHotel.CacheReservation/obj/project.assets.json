@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Serkan\\Desktop\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.CacheReservation\\BilgeHotel.CacheReservation.csproj",
+      "projectUniqueName": "C:\\Users\\Serkan\\Desktop\\Yeni klasör\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.CacheReservation\\BilgeHotel.CacheReservation.csproj",
       "projectName": "BilgeHotel.CacheReservation",
-      "projectPath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.CacheReservation\\BilgeHotel.CacheReservation.csproj",
+      "projectPath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.CacheReservation\\BilgeHotel.CacheReservation.csproj",
       "packagesPath": "C:\\Users\\Serkan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.CacheReservation\\obj\\",
+      "outputPath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.CacheReservation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -897,11 +897,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Serkan\\Desktop\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.ViewModels\\BilgeHotel.ViewModels.csproj",
+      "projectUniqueName": "C:\\Users\\Serkan\\Desktop\\Yeni klasör\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.ViewModels\\BilgeHotel.ViewModels.csproj",
       "projectName": "BilgeHotel.ViewModels",
-      "projectPath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.ViewModels\\BilgeHotel.ViewModels.csproj",
+      "projectPath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.ViewModels\\BilgeHotel.ViewModels.csproj",
       "packagesPath": "C:\\Users\\Serkan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.ViewModels\\obj\\",
+      "outputPath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.ViewModels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -923,8 +923,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Serkan\\Desktop\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.Entities\\BilgeHotel.Entities.csproj": {
-              "projectPath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.Entities\\BilgeHotel.Entities.csproj"
+            "C:\\Users\\Serkan\\Desktop\\Yeni klasör\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.Entities\\BilgeHotel.Entities.csproj": {
+              "projectPath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.Entities\\BilgeHotel.Entities.csproj"
             }
           }
         }

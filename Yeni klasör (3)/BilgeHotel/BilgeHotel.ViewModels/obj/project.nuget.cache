@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5RY4uU30ngRjTVpO4c/LpyiXpn4JfO2CpXowAe8eigqVNlROf2XFm6s25+yDHSK+Mw5S8s2TBKhpUMeInX2m8g==",
+  "dgSpecHash": "z52BJEebafXiXIoDH22tpvcG12B9J5uN0Mog9rQAi0Kj49F6zAuHFAMfIYYUNHKGOZBRvdea7R3aVCTE5+ZFqw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.ViewModels\\BilgeHotel.ViewModels.csproj",
+  "projectFilePath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.ViewModels\\BilgeHotel.ViewModels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Serkan\\.nuget\\packages\\identitymodel\\4.4.0\\identitymodel.4.4.0.nupkg.sha512",
     "C:\\Users\\Serkan\\.nuget\\packages\\identityserver4.storage\\4.1.2\\identityserver4.storage.4.1.2.nupkg.sha512",

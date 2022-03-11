@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lb0PEH/B+gwGkCR1BblTFUK0Xq6e7ZtVnnlamvtGgYvVuPjIEI8tbUjh7yNls2jsdA8DgWwl0MRXJ5DAXBB1Xw==",
+  "dgSpecHash": "TotP1HuNUQJNYfDDVvdbR8BogspK4s8cF3yhcf1r/vXVQubH3hwl3TNt6/t5AJf44kj6H++IiS9nzWJcGjtUjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör (3)\\BilgeHotel\\BankaAPI\\BankaAPI.csproj",
+  "projectFilePath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör\\Yeni klasör (3)\\BilgeHotel\\BankaAPI\\BankaAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Serkan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Serkan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

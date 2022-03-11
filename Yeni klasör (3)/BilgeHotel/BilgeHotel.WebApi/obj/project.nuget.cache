@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TDL4yoUD7jjaB8EEcQdTWlCSvbv5QKjOObX7VJ8w1j/F3lZHkdZObg7F1q+2b2KbZs51TGB6LBlwyumjKY+V0Q==",
+  "dgSpecHash": "098LsAvOpSsGWsKR3vK8SJrE9JRa5agp6ZNqWfd8xKrTJtVfwmJKiRDjmWIz5XmXBxKzfqYmULH6iKmamcMSxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.WebApi\\BilgeHotel.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.WebApi\\BilgeHotel.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Serkan\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Serkan\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",

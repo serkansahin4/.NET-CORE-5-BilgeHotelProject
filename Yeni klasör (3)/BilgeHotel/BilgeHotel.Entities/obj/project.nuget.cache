@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tCv3qu5d5HH/4sdBLnlITySWiHCIQwlEnDfofKhaEh5DSfUCaPAnkRPgHrE6kcPVwLk2af3gaiZNRWgrEeWisQ==",
+  "dgSpecHash": "z9I+x+Bs50HMXY37lO0wGj0IbdmxXGc3dxcFBbPTal/Hm1Kbexl0IVwyMjvJyEsYDYcl1fUAkSJgotjCMSV0nw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.Entities\\BilgeHotel.Entities.csproj",
+  "projectFilePath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.Entities\\BilgeHotel.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Serkan\\.nuget\\packages\\identitymodel\\4.4.0\\identitymodel.4.4.0.nupkg.sha512",
     "C:\\Users\\Serkan\\.nuget\\packages\\identityserver4.storage\\4.1.2\\identityserver4.storage.4.1.2.nupkg.sha512",

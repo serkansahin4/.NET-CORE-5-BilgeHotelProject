@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SCzyQTpONegFklBEOoFBR0YulG1fTcz1pkQsVOU8/oYn5NIIm9MSjnEfzP6Rt2qWpCwULtB3/DRxSrjTccIzsQ==",
+  "dgSpecHash": "EpnQP5hi5epWYlMS74fc3hbzy0hOZonHzbzUDum7nsuon3l9TFbFrWvnP4/7bFXa1XF0x7xoa8aBi8bpEnag0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.WebUI\\BilgeHotel.WebUI.csproj",
+  "projectFilePath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.WebUI\\BilgeHotel.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Serkan\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Serkan\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",

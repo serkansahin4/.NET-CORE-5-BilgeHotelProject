@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sk/d5goFiqcJBQM53egybVt4x85QbzzL89d6MW5lW0dKT5SEGAji1rSJUhvQLPuXdtAbAvcAKryKIqgPWqzVnw==",
+  "dgSpecHash": "tDevyd1LrsSWovhURabEjK+f3OwgVsdPqUnsH69ta0k2Ma6WV6B1Ljdd5fMGFzn6m2PZHXMhi5t2CHV761zjXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.Core\\BilgeHotel.Core.csproj",
+  "projectFilePath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.Core\\BilgeHotel.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Serkan\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\Serkan\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

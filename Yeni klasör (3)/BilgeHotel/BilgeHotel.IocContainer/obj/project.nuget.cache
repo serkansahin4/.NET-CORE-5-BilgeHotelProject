@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4LAHAZMjinxOtmY+J4YWGC0wyK26n9M46MBauUg3CWGqm1kiX1+FrwYWV5rUiagiAynMTxQcMsiICVaI28mbww==",
+  "dgSpecHash": "8U7EAXrVmsMa+lpUSCpvZUtfv/cdAiGD/Ffnm9ZUzgcMMwbTxnJv7Kh1xIjOHIct4F9TzSZxNIH/xidg2EqsXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.IocContainer\\BilgeHotel.IocContainer.csproj",
+  "projectFilePath": "C:\\Users\\Serkan\\Desktop\\Yeni klasör\\Yeni klasör (3)\\BilgeHotel\\BilgeHotel.IocContainer\\BilgeHotel.IocContainer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Serkan\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Serkan\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
